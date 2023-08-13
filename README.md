@@ -1,6 +1,7 @@
 # first
 메인 화면 - 달력, 카테고리 2개(선택시 해당 카테고리만 보기), 필사 문구, Dday, 월별 목표
 MVC
+Swing
 ![001](https://github.com/rosy137/first/assets/128671943/2449a9b8-857d-4175-b808-54e572edc9ea)
 ![002](https://github.com/rosy137/first/assets/128671943/5341ef67-c4bb-47ce-9aeb-6f858c77842c)
 ![003](https://github.com/rosy137/first/assets/128671943/cb91758d-0f7a-49bd-a7c2-f957da664d9b)
